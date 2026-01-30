@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Local logs / runtime
+*.log
+*.pid
+
+# Jupyter (just in case)
+.ipynb_checkpoints/
